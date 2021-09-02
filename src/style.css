@@ -1,1 +1,22 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+h1 {
+  background-color: pink;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  border-color: black;
+  font-family: fantasy;
+  font-weight: 300;
+}
+div {
+  background-color: rgb(231, 86, 110);
+}
+.alert-warning {
+  background-color: pink;
+  border-color: black;
+}
+img {
+  border: 1px solid transparent;
+  border-radius: 1rem;
+  border-color: black;
+}
